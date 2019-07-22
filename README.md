@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  #  Myproject
 
 ##   Author
@@ -23,3 +24,6 @@ tel:0783891444
 
 
 copyright (c)2019 Joselyne
+=======
+# myproject
+>>>>>>> 750ab492ee55bf30f6b5bb910725ffee78196f3b
