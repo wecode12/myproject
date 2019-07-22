@@ -1,5 +1,8 @@
-#banner{
-    background-color: coral;
-    
-
+.banner{
+    background-color: blueviolet;
+    border: 5px;padding: 2px;
+}
+.footer{
+    background-color: darkgray;
+    border: 0px;
 }
